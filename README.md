@@ -5,6 +5,9 @@
 > 📫 How to reach me: danroyaleffiong@gmail.com , [danieleffiong.com](https://danieleffiong.com)
 > ____________________________
 
+
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+
 <!--
 **Danroyal001/Danroyal001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
