@@ -2,7 +2,7 @@
 
 > 😄 Pronouns: Him, He
 > ____________________________
-> 📫 How to reach me: danroyaleffiong@gmail.com , [danieleffiong.com](https://danieleffiong.com)
+> 📫 How to reach me: [danroyaleffiong@gmail.com](mailto"danroyaleffiong@gmail.com), [mobile: +2348163277144](tel:+2348163277144) [Twitter](https://bit.ly/daniel-effiong-twitter), [Linkedin](https://bit.ly/daniel-effiong-linkedin), [Facebook](https://facebook.com/danroyal.effiong.7), [danieleffiong.com](https://danieleffiong.com (temporarily unavailable at the moment))
 > ____________________________
 
 
