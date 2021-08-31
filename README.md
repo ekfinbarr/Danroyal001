@@ -7,7 +7,7 @@
 
 - 📫 reach me via: [danroyaleffiong@gmail.com](mailto:danroyaleffiong@gmail.com), [mobile: +2348163277144](tel:+2348163277144), [Twitter](https://bit.ly/daniel-effiong-twitter), [Linkedin](https://bit.ly/daniel-effiong-linkedin), [Facebook](https://facebook.com/danroyal.effiong.7), [danieleffiong.com - temporarily unavailable](https://danieleffiong.com)
 - 🎓 studying computer science @ Uniuyo, Nigeria.
-- 💻 working as a frontend software developer
+- 💻 working as a software developer
 - 🚀 as a side project i work on "webspeed". A CMS and framework build with node.js
 - 🌱 I’m currently learning Jetpack compose, webgl, python and rust.
 
